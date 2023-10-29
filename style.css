@@ -1,0 +1,30 @@
+.container{
+    text-align: center;
+    margin: auto;
+}
+.dice{
+    text-align: center;
+    display: inline-block;
+}
+body{
+    background-color: #393E46;
+}
+h1{
+    font-size: 6rem;
+    margin: 30px;
+    font-family: Agbalumo;
+    color: aquamarine;
+}
+h3{
+    color: aqua;
+    font-family: 'Dancing Script', cursive;
+    font-size: 3rem;
+}
+img{
+    width: 80%;
+}
+footer{
+    text-align: center;
+    margin-top: 50px;
+    color: antiquewhite;
+}
